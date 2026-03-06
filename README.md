@@ -17,7 +17,15 @@ Cisco Packet Tracer step by step.
 - ✅ Subnetting
 - ✅ DHCP
 - ✅ DNS basics
-- ✅ 1st stage revison 
+- ✅ 1st stage revison
+
+## Stage 2 — Intermediate 📖 In Progress
+- ✅ Static and Dynamic Routing (OSPF)
+- 📖 Inter-VLAN Routing
+- 🔲 NAT
+- 🔲 VPN setup
+- 🔲 Port Security
+- 🔲 Wireless network setup
 
 ---
 
