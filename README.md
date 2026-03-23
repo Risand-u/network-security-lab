@@ -25,7 +25,7 @@ Cisco Packet Tracer step by step.
 - ✅ Inter-VLAN Routing
 - ✅ NAT
 - 🔲 VPN setup
-- 🔲 Port Security
+- 🔲 Port Security 
 - 🔲 Wireless network setup 
 
 ---
