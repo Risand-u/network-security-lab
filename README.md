@@ -23,7 +23,7 @@ Cisco Packet Tracer step by step.
 
 - ✅ Static and Dynamic Routing (OSPF)
 - ✅ Inter-VLAN Routing
-- 🔲 NAT
+- ✅ NAT
 - 🔲 VPN setup
 - 🔲 Port Security
 - 🔲 Wireless network setup
