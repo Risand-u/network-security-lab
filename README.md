@@ -13,7 +13,7 @@ Cisco Packet Tracer step by step.
 
 - ✅ Basic network setup (Router, Switch, PCs) 
 - ✅ IP addressing
-- ✅ VLANs
+- ✅ VLANs 
 - ✅ ACL Firewall rules
 - ✅ Basic ping testing
 - ✅ Subnetting
