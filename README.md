@@ -20,7 +20,7 @@ Cisco Packet Tracer step by step.
 - ✅ DHCP
 - ✅ DNS basics
 - ✅ 1st stage revison
-
+ 
 - ✅ Static and Dynamic Routing (OSPF)
 - ✅ Inter-VLAN Routing
 - ✅ NAT
