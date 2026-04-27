@@ -9,7 +9,7 @@ Cisco Packet Tracer step by step.
 ---                    
       
 ## Projects      
-  
+   
 - ✅ Basic network setup (Router, Switch, PCs) 
 - ✅ IP addressing 
 - ✅ VLANs  
