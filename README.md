@@ -11,7 +11,7 @@ Cisco Packet Tracer step by step.
 ## Projects      
   
 - ✅ Basic network setup (Router, Switch, PCs) 
-- ✅ IP addressing
+- ✅ IP addressing 
 - ✅ VLANs  
 - ✅ ACL Firewall rules
 - ✅ Basic ping testing
